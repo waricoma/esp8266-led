@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Arduino Project Settings">
+    <option name="baudRate" value="38400" />
+    <option name="port" value="/dev/cu.usbserial-DN01ABXI" />
+    <option name="serialEndOfLine" value="3" />
+  </component>
+</project>
